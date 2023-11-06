@@ -1,4 +1,5 @@
 # syntax=docker/dockerfile:1
 
 FROM alpine
-CMD ["echo", "Hello StackOverflow!"]
+CMD ["echo", "Hello World"]
+
