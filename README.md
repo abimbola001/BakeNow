@@ -1,4 +1,6 @@
 # BakeNow
+
+#CI using  Github actions to dockerization a  node.js  application
 GitOps
 Using ArgoCd to automatic detect  the changes in  kubernete and deploy it.
 
