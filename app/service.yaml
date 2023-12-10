@@ -8,5 +8,5 @@ spec:
   ports:
     - protocol: TCP
       port: 80
-      targetPort: 7100
+      targetPort: 7000
   type: NodePort  # Use NodePort or LoadBalancer  or ClusterIP if needed
